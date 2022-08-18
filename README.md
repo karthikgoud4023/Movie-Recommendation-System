@@ -1,2 +1,2 @@
-# movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+# Movie recommendation System-IMDb Dataset
+Link to the Heroku App: https://movierecommendaa.herokuapp.com/
